@@ -5,10 +5,13 @@
 - A keyboard, physical or virtual
 
 ### About the game
-lorem...
+Simple rock, paper, scissors game with a computer opponent that continues until the human player looses. Can you beat your high score?
 
 ### How to play
-
+Run:
+```
+python app.py
+```
 
 ### Contributing
 This project uses Black for code style formatting, install it by:
