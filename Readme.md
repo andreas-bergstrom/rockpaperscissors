@@ -10,13 +10,15 @@ Simple rock, paper, scissors game with a computer opponent that continues until 
 ### How to play
 Run:
 ```
-source venv
+python3 -m venv venv
+source venv/bin/activate
 python app.py
 ```
 
 ### Contributing
 This project uses Black for code style formatting, install it by:
 ```
-source venv
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
